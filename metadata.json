@@ -1,0 +1,7 @@
+{
+  "name": "Asistencia por Voz",
+  "description": "Una app para tomar asistencia grabando audio. La aplicación transcribe la voz, identifica los nombres y si están presentes o ausentes, y muestra los resultados en una tabla.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
